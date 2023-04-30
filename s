@@ -16,7 +16,7 @@
 
 	(getgenv and getgenv() or _G or shared).BB_Settings = {
 local chat = false,
-local removewingmesh = true,
+local removewingmesh = nil,
 local removelefthandmesh = false,
 local removerighthandmesh = false,
 local removerightlegmesh = false,
