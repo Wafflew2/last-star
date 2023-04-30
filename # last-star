@@ -14,7 +14,13 @@
 
 ]]
 
-
+local chat = false -- random stuff
+local removewingmesh = true --just makes your wings to being parts, looks better and more clear tbh
+local removelefthandmesh = false -- omg wtf im i lookng at :skull:
+local removerighthandmesh = false -- omg wtf im i lookng at :skull:
+local removerightlegmesh = false -- wtf
+local removeleftlegmesh = false -- eh
+local removetorsomesh = false -- don't actually do this :Skull
 
 print[[
                                      // A P E X \\
