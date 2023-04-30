@@ -14,14 +14,6 @@
 
 ]]
 
-local chat = false -- random stuff
-local removewingmesh = true --just makes your wings to being parts, looks better and more clear tbh
-local removelefthandmesh = false -- omg wtf im i lookng at :skull:
-local removerighthandmesh = false -- omg wtf im i lookng at :skull:
-local removerightlegmesh = false -- wtf
-local removeleftlegmesh = false -- eh
-local removetorsomesh = false -- don't actually do this :Skull
-
 
 
 print[[
@@ -35,7 +27,6 @@ print[[
                     FDless inside the FE Animation Compatibility by MyWorld
 ]]
 game.Players:Chat("-gh 11159410305, 11263254795, 12344545199, 12344591101, 13012415545, 8998968191, 9730887811, 9730942837, 9730945610, 9730902206, 9666081057, 9666089815")
---game.Players:Chat("-gh 9730902206, 9666081057, 9666089815") --ignore this if you dont have enough hats
 game:GetService("Players").LocalPlayer.Character["ParadoxBladesL"].Name = 'ParadoxOrangeBladesL'
 game:GetService("Players").LocalPlayer.Character["ParadoxBladesR"].Name = 'ParadoxOrangeBladesR'
 wait(1)
